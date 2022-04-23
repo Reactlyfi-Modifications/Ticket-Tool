@@ -22,10 +22,10 @@
   <p align="center">
     An awesome Ticket Tool for your Discord Server!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Reactlyfi-Modifications/Ticket-Tool"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
     ·
     <a href="https://github.com/Reactlyfi-Modifications/Ticket-Tool/issues">Report Bug</a>
     ·
