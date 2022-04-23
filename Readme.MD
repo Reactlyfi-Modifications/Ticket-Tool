@@ -82,7 +82,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    https://marketplace.visualstudio.com/items?itemName=CTBotsOfficial.cptrico
    ```
-3. Enter the thins in `config.json`
+3. Enter the things like this in `config.json`
    ```json
     "Token": "Enter your Discord Developer Token!",
     "ChannelID": "The Kategori Id of where the tickets shuld be made",
