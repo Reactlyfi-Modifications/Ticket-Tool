@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-My Discord - [Discord](CPTRICO#5167)
+My Discord - [Discord](https://discord.gg/2PV55MzjzJ)
 
 Project Link: [https://github.com/Reactlyfi-Modifications/Ticket-Tool](https://github.com/Reactlyfi-Modifications/Ticket-Tool)
 
