@@ -147,6 +147,4 @@ Project Link: [https://github.com/Reactlyfi-Modifications/Ticket-Tool](https://g
 [issues-url]: https://github.com/Reactlyfi-Modifications/Ticket-Tool/issues
 [license-shield]: https://img.shields.io/github/license/Reactlyfi-Modifications/Ticket-Tool.svg?style=for-the-badge
 [license-url]: https://github.com/Reactlyfi-Modifications/Ticket-Tool/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://github.com/othneildrew/Best-README-Template/raw/master/images/screenshot.png
