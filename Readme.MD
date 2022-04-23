@@ -14,7 +14,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://cdn.discordapp.com/attachments/961180157756968960/967457490482638919/Untitled.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Reactlyfi - Ticket Tool</h3>
