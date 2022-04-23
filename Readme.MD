@@ -78,9 +78,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/Reactlyfi-Modifications/Ticket-Tool
    ```
-2. Install NPM packages
+2. Install VSCode Exstention
    ```sh
-   npm install
+   https://marketplace.visualstudio.com/items?itemName=CTBotsOfficial.cptrico
    ```
 3. Enter the thins in `config.json`
    ```json
