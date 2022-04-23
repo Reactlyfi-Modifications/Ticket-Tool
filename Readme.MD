@@ -26,7 +26,6 @@
     <br />
     <br />
     <!-- <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a> -->
-    ·
     <a href="https://github.com/Reactlyfi-Modifications/Ticket-Tool/issues">Report Bug</a>
     ·
     <a href="https://github.com/Reactlyfi-Modifications/Ticket-Tool/issues">Request Feature</a>
