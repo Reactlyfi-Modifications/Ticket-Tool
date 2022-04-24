@@ -11,7 +11,6 @@ const Client = new discord.Client({
 Client.commands = new discord.Collection();
 Client.aliases = new discord.Collection();
 Client.events = new discord.Collection();
-Client.SlachCmds = new discord.Collection();
 module.exports.Client = Client
 
 
@@ -58,22 +57,6 @@ fs.readdirSync('./events/').forEach(dir => {
     })
 })
 
-// Slachcommand handler
-fs.readdirSync('./SlachCommands/').forEach(dir => {
-    fs.readdir(`./SlachCommands/${dir}`, (err, files) => {
-        var jsFiles = fs.readdirSync('./SlachCommands/').filter(file => file.endsWith('.js'));
-        if (jsFiles.length <= 0) return console.log('Kan ikke finde nogen SlachCommands!');
-        jsFiles.forEach(file => {
-            var fileget = require(`./SlachCommands/file`);
-            try {
-                Client.SlachCmds.set(fileget.help.name, fileget);
-                console.log(`File ${file} blev loaded`)
-            } catch (err) {
-                return console.log(err)
-            }
-        })
-    })
-})
 
 
 
